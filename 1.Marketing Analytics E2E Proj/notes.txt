@@ -1,0 +1,38 @@
+Marketing Analysis Business Case
+Business Problem
+-ShopEasy ,an online retail business, is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns.You have to conduct a detailed analysis and Identify areas for improvment in their marketing strategies.
+-Points to focus
+1.Reduced Customer Engagement-the number of customer interactions and engagement with the site and marketing content has benn dcresing.
+2.Decreased Conversion rates - few site visitors are converting into paying customers.
+3.High Marketing Expense - the ROI in Marketing campaign is decresing.
+4.Need for customer feedback Analysis - Analyse the customer opinions about the product and services for insights to improve customer enegagement and conversion
+5.Have to identify the areas of improvment and why the current marketing campaign did not work.
+6.Analyse the customer feedback sentiments and issues , and find their needs and pain points.
+
+Some KPIs
+1.Conversion Rate- Percentage of website visitors who becomes a customer
+2.Customer Engagement Rate - No of interaction with the marketing content(clicks,like,comments)
+3.Average Ordervalue - Average amount spent by customers per order
+4.Customer Feedback Score - Average rating from customer reviews.
+
+Data Sources & Tables
+1.Customer Journey Table - Track customer movements through the website to analyse the conversion funnel.
+2.Engagement Data Table - Measure engagement with different types of content.
+3.Customer Reviews Table - Analyze customer feedback to identify common themes and sentiments.
+4.Customer Table - Additional information about customers.
+5.Geography Table - Additional geographic information about customers.
+6.Product Table - Information about the products.
+
+GOALS
+1.Increase Conversion Rates 
+	-Identify factors impacting the conversion rate and provide recommendations to improve it.
+	-Highlight key atages where visitors drop off and suggest improvements to optimize the conversion funnel.
+
+2.Enhance Customer Engagement
+	-Determine which types of content drive the highest engagement.
+	-Analyse interaction levels with different types of marketing content to inform better content strategies.
+
+3.Improve Customer Feedback Scores
+	-Understand common themes in customer reviews and provide actionable insights.
+	-Identify recurring positive and negative feedback to guide product and service improvements.
+

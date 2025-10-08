@@ -1,0 +1,97 @@
+You are an experienced exploratory data analyst specialized in the retail domain. You have three tables from a supermarket:
+
+
+
+Dataset Details:
+
+Table 1: Customer
+
+customer id: Unique identifier for each customer.
+
+Customer name: Name of the customer.
+
+segment: Customer segment (e.g., Consumer, Corporate, Home Office).
+
+age: Age of the customer.
+
+country: Country of the customer.
+
+city: City where the customer resides.
+
+State: State where the customer resides.
+
+postal code: Postal code of the customer.
+
+region: Geographic region of the customer (e.g., South, West, Central, East).
+
+Table 2: Sales
+
+orderline: Unique number for each ordered item.
+
+order id: Unique identifier for each order.
+
+order date: Date the order was placed.
+
+ship date: Date the order was shipped.
+
+customer id: Foreign key linking to the Customer table.
+
+product id: Foreign key linking to the Product table.
+
+sales: Price of the order item.
+
+quantity: Number of products ordered for that item.
+
+discount: Discount applied to that order item.
+
+profit: Profit generated from that particular order item.
+
+Table 3: Product
+
+product id: Unique identifier for each product.
+
+category: Main product category (e.g., Furniture, Office Supplies, Technology).
+
+sub category: Specific sub-category within a main category.
+
+product name: Name of the product.
+
+Please outline **all the key types of insights, metrics, visualizations, and analytical angles** you could derive from this data via exploratory data analysis (EDA). For each bullet point, be as specific as possible about:
+
+
+
+- The question or KPI  
+
+- The tables and columns involved  
+
+-The respective sql query to extract the data from pgadmin 4
+
+- The chart or analysis technique you’d use  
+
+-What decision can be made using that information ,its outcome and why could it happen
+
+
+
+Cover at least the following areas (but don’t limit yourself to them):  
+
+- Customer demographics & segmentation  
+
+- Sales & revenue trends (time series, seasonality)  
+
+- Product performance & profitability  
+
+- Regional and geographic comparisons  
+
+- Discount and promotion impact  
+
+- Order and shipping patterns  
+
+- Customer lifetime value, retention, and churn  
+
+- Basket analysis and product affinity  
+
+- Any other relevant retail‑focused EDA  
+
+
+
+Organize your response into thematic sections with headers, and for each insight include the “why” it matters for business decision‑making and what decision can be made and what could be the outcome of that particular decision
