@@ -1,4 +1,5 @@
 Marketing Analysis Business Case
+
 Business Problem
 -ShopEasy ,an online retail business, is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns.You have to conduct a detailed analysis and Identify areas for improvment in their marketing strategies.
 -Points to focus
