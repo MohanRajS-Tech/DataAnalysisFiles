@@ -39,4 +39,4 @@ Presentation — a short deck summarizing findings and recommendations
 
 # Goals for this project
 
-I built this to practice end-to-end thinking — not just code or charts, but how to turn data into a story that helps teams make decisions.
+I built this to get a handson  end-to-end thinking — not just code or charts, but how to turn data into a story that helps teams make decisions.
